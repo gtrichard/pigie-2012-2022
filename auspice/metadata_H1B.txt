@@ -1,0 +1,446 @@
+strain	date	Subtype	Host	Country	HA_clade
+A/swine/France/29-200395-3/2020	2020-10-26	H1N2	swine	France	1B.1.2.3
+A/swine/Germany/2022AI03533/2022	2022-06-29	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/2022AI00362/2022	2022-01-07	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/2022AI00361/2022	2022-01-07	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/2022AI00359/2022	2022-01-07	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/2021AI08934/2021	2021-12-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Netherlands/Wanroij-CVI2117A/2012	2012-05-15	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/France/22-120067/2012	2012-02-08	H1N1	swine	France	1B.1.2.3
+A/swine/France/22-120228/2012	2012-07-09	H1N2	swine	France	1B.1.2.3
+A/swine/Netherlands/De-Lutte-167A/2012	2012-04-25	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/England/7800/2012	2012-02-09	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/6183/2012	2012-01-11	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/024924/2012	2012-08-10	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/30148/2012	2012-10-29	H1N2	swine	United Kingdom	1B.1.1
+A/swine/Spain/29262/2012	2012-01-31	H1N2	swine	Spain	1B.1.2
+A/swine/England/038712/2012	2012-12-05	H1N2	swine	United Kingdom	1B.1.1
+A/swine/Italy/55228/2012	2012-03-02	H1N2	swine	Italy	1B.1.2.2
+A/swine/England/7856/2012	2012-02-23	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/015904/2012	2012-11-21	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/9953/2012	2012-05-14	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/34627/2012	2012-11-06	H1N2	swine	United Kingdom	1B.1.1
+A/swine/France/35-120024/2012	2012-01-19	H1N2	swine	France	1B.1.2.3
+A/swine/Spain/29257/2012	2012-01-30	H1N2	swine	Spain	1B.1.2
+A/swine/Belgium/Oostkamp-26/2012	2012-01-12	H1N2	swine	Belgium	1B.1.2.1
+A/swine/Italy/337085/2012	2012-09-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Petershagen/16696/2012	2012-12-03	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/15625/2012	2012-07-13	H1N2	swine	Germany	1B.1.2.1
+A/swine/Dobersdorf/15341/2012	2012-05-14	H1N2	swine	Germany	1B.1.2.1
+A/swine/Sendenhorst/15335/2012	2012-05-15	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/15286/2012	2012-04-30	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/15102/2012	2012-03-28	H1N2	swine	Germany	1B.1.2.1
+A/swine/Havixbeck/15034/2012	2012-03-16	H1N2	swine	Germany	1B.1.2.1
+A/swine/Erlingen/14916/2012	2012-02-29	H1N2	swine	Germany	1B.1.2.1
+A/swine/Ascheberg/14874/2012	2012-02-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Senden/14779/2012	2012-02-13	H1N2	swine	Germany	1B.1.2.1
+A/swine/Hude/14670/2012	2012-01-25	H1N2	swine	Germany	1B.1.2.1
+A/swine/Wietmarschen/14638/2012	2012-01-25	H1N2	swine	Germany	1B.1.2.1
+A/swine/Albersloh/IDT14635-2/2012	2012-01-26	H1N2	swine	Germany	1B.1.2.1
+A/swine/England/097085/2014	2014-01-04	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/096724/2014	2014-03-28	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/091738/2014	2014-02-07	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/091736/2014	2014-02-07	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/091215/2014	2014-01-30	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/087377/2014	2014-01-06	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/028258/2014	2014-02-26	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/028256/2014	2014-02-26	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/026605/2014	2014-01-10	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/220198/2015	2015-02-18	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/143740/2015	2015-10-27	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/143739/2015	2015-10-27	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/132457/2015	2015-06-03	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/130543/2015	2015-05-07	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/040574/2015	2015-09-24	H1N1	swine	United Kingdom	1B.1.1
+A/swine/England/155224/2016	2016-03-09	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/153554/2016	2016-02-23	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/153553/2016	2016-02-23	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/151782/2016	2016-02-02	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/151720/2016	2016-02-02	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/045983/2016	2016-07-08	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/044988/2016	2016-03-10	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/042792/2016	2016-01-28	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/180277/2017	2017-11-12	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/053048/2017	2017-06-07	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/204998/2018	2011-03-21	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/066871/2018	2018-08-14	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/064519/2018	2018-05-29	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/062942/2018	2018-04-25	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/015824/2019	2019-07-12	H1N1	swine	United Kingdom	1B.1.1
+A/swine/England/083412/2019	2019-12-20	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/075667/2019	2019-05-28	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/03180/2019	2019-01-01	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/079389/2019	2019-09-13	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/219508/2019	2019-06-10	H1N1	swine	United Kingdom	1B.1.1
+A/swine/England/072591/2019	2019-03-07	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/023799/2020	2020-05-12	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/023795/2020	2020-05-12	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/228996/2020	2020-05-07	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/092944/2020	2020-09-02	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/263079/2020	2020-01-01	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/238434/2021	2021-05-13	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/102081/2021	2021-04-09	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/102076/2021	2021-04-09	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/100227/2021	2021-01-01	H1N2	swine	United Kingdom	1B.1.1
+A/swine/France/IIIeetVilaine-0404/2011		H1N2	swine	France	1B.1.2.3
+A/swine/Scotland/51190/1999		H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/33766/2003		H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/1437/2004		H1N2	swine	United Kingdom	1B.1.1
+A/swine/Groitzsch/IDT6016-1/2007	2007-03-22	H1N2	swine	Germany	1B.1.2.1
+A/swine/Groitzsch/IDT6016-2/2007	2007-03-22	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany-NI/R3394/09	2009-01-01	H1N1	swine	Germany	1B.1.2.1
+A/swine/Germany-NI/R299/09	2009-01-01	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany-NI/R757/10	2010-01-01	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany-NI/R856/10	2010-01-01	H1N2	swine	Germany	1B.1.2.1
+A/swine/England/1382/2010	2010-04-13	H1N2	swine	United Kingdom	1B.1.1
+A/swine/Italy/320546/2009	2009-12-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/198260/2008	2008-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/81226/2009	2009-04-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/70757/2009	2009-04-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/England/00003/2009	2009-01-12	H1N2	swine	United Kingdom	Other-Human-1B.2-like
+A/swine/England/303/2009	2009-04-09	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/483/2006	2006-05-12	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/P185/2008	2008-12-25	H1N2	swine	United Kingdom	1B.1.1
+A/swine/Cotes_d_Armor/1174/2009	2009-10-01	H1N2	swine	France	1B.1.2
+A/swine/Ploufragan/0214/2006	2006-09-02	H1N2	swine	France	1B.1.1
+A/swine/Gent/100/2007	2007-01-01	H1N2	swine	Belgium	1B.1.2.1
+A/swine/Germany/R1421/2010	2010-01-01	H1N2	swine	Germany	1B.1.2.1
+A/Swine/Spain/SF12091/2007	2007-01-01	H1N2	Swine	Spain	1B.1.2.1
+A/Swine/Spain/80598LP4/2007	2007-01-01	H1N2	Swine	Spain	1B.1.2
+A/swine/Spain/10/2011	2011-02-01	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/07/2011	2011-05-01	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/08/2011	2011-07-01	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/05/2011	2011-08-01	H1N1	swine	Spain	1B.1.2
+A/swine/Spain/09/2010	2010-04-01	H1N2	swine	Spain	1B.1.2
+A/swine/Germany/Steinfeld-IDT12115/2010	2010-06-28	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/Nikolausdorf-IDT12279/2010	2010-01-01	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/Bakum-IDT12292/2010	2010-01-01	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/Lohne-IDT12877/2011	2011-01-04	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/Belecke-IDT12963/2011	2011-01-25	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/Barle-IDT13149/2011	2011-03-09	H1N2	swine	Germany	1B.1.2.1
+A/swine/France/IIIeetVilaine-0415/2011	2011-08-01	H1N2	swine	France	1B.1.2.3
+A/swine/Italy/57680/2011	2011-03-09	H1N2	swine	Italy	1B.1.2.1
+A/swine/Italy/275736/2010	2010-09-29	H1N2	swine	Italy	1B.1.2.2
+A/swine/England/058879/2011	2011-05-16	H1N2	swine	United Kingdom	1B.1.1
+A/swine/Netherlands/Haaksbergen-136/2011	2011-03-03	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/Netherlands/Rheezerveen-66/2011	2011-02-01	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/Netherlands/Lievelde-511/2011	2011-11-09	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/Spain/20423/2011	2011-02-16	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/24237/2011	2011-07-01	H1N2	swine	Spain	1B.1.2
+A/swine/France/Cotes_d_Armor-0198/2011	2011-04-11	H1N2	swine	France	1B.1.2.3
+A/swine/France/Cotes_d_Armor-0041/2011	2011-01-01	H1N2	swine	France	1B.1.2.3
+A/swine/France/Cotes_d_Armor-0105/2011	2011-02-01	H1N2	swine	France	1B.1.2.3
+A/swine/France/Cotes_d_Armor-0074/2011	2011-02-02	H1N2	swine	France	1B.1.2.3
+A/swine/France/Cotes_d_Armor-0558/2011	2011-09-14	H1N2	swine	France	1B.1.2.3
+A/swine/England/997/2008	2008-12-09	H1N2	swine	United Kingdom	1B.1.1
+A/swine/Spain/79976/2007	2007-01-01	H1N2	swine	Spain	1B.1.2.1
+A/swine/Germany/Dulmen-IDT14394/2011	2011-11-17	H1N2	swine	Germany	1B.1.2.1
+A/swine/England/041118/2013	2013-01-03	H1N2	swine	United Kingdom	1B.1.1
+A/swine/France/56-110525/2010	2010-11-26	H1N1	swine	France	1B.1.2.3
+A/swine/England/000304/2009	2009-04-01	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/101878/2010	2010-09-01	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/11449/2011	2011-01-19	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/142162/2010	2010-12-03	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/112340/2011	2011-10-10	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/1380/2011	2011-11-08	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/90276/2011	2011-08-16	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/016947/2013	2013-01-03	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/61470/2013	2013-05-13	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/61025/2013	2013-05-07	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/072512/2013	2013-09-03	H1N2	swine	United Kingdom	1B.1.1
+A/swine/England/063782/2013	2013-06-05	H1N2	swine	United Kingdom	1B.1.1
+A/swine/France/22-130212/2013	2013-06-05	H1N2	swine	France	1B.1.2.3
+A/swine/Italy/11546-62/2013	2013-12-27	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/11546-65/2013	2013-12-27	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/50064-2/2014	2014-01-08	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/50064-3/2014	2014-01-08	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/50206-21/2014	2014-01-29	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/50206-28/2014	2014-01-29	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/9529-1/2013	2013-11-18	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/9529-70/2013	2013-11-18	H1N2	swine	Italy	1B.1.2.2
+A/swine/Germany/R1143/2014	2014-01-01	H1N2	swine	Germany	1B.1.2.1
+A/swine/Germany/R309/2015	2014-01-01	H1N2	swine	Germany	1B.1.2.1
+A/swine/Italy/216876/2015	2015-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/203964/2015	2015-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/36818-4/2015	2015-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/56341/2015	2015-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/129452/2015	2015-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/3033-1/2015	2015-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/328356/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/334694-1/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/352331/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/271152/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/150383-1/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/165246/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/166277-2/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/91602/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/114922/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/125010-1/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/34333/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/36662-2/2014	2014-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/293841/2013	2013-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/346150/2013	2013-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/198930-3/2013	2013-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/229537/2011	2011-09-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Netherlands/AR647/2015	2015-04-12	H1N1	swine	Netherlands	1B.1.2.1
+A/swine/Spain/2698/2016	2016-05-09	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/1372/2015	2015-12-07	H1N2	swine	Spain	1B.1.2.1
+A/swine/Spain/1297/2016	2016-04-19	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/150/2018	2018-11-12	H1N2	swine	Spain	1B.1.2.1
+A/swine/Spain/BM55/2019	2019-03-22	H1N2	swine	Spain	1B.1.2.1
+A/swine/Spain/153/2018	2018-11-12	H1N2	swine	Spain	1B.1.2.1
+A/swine/Italy/31761/2015	2015-02-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/France/22-150384/2015	2015-11-02	H1N2	swine	France	1B.1.2.3
+A/swine/France/22-170335/2017	2017-12-14	H1N2	swine	France	1B.1.2.3
+A/swine/France/22-180048/2018	2018-01-29	H1N2	swine	France	1B.1.2.3
+A/swine/France/22-180175/2018	2018-03-23	H1N2	swine	France	1B.1.2.3
+A/swine/France/22-180254/2018	2018-05-14	H1N2	swine	France	1B.1.2.3
+A/swine/France/22-180287/2018	2018-06-06	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-140342/2014	2014-06-05	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-160400/2016	2016-11-15	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-170039/2017	2017-01-19	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-170091/2017	2017-03-22	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-170184/2017	2017-07-18	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-170198/2017	2017-07-26	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-170332/2017	2017-12-15	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-180023/2018	2018-01-12	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-180124/2018	2018-02-26	H1N2	swine	France	1B.1.2.3
+A/swine/France/35-160204/2016	2016-05-23	H1N2	swine	France	1B.1.2.3
+A/swine/France/35-170242/2017	2017-09-27	H1N2	swine	France	1B.1.2.3
+A/swine/France/35-180443/2018	2018-10-26	H1N2	swine	France	1B.1.2.3
+A/swine/France/39-180140/2018	2018-03-13	H1N2	swine	France	1B.1.2.3
+A/swine/France/50-140056/2014	2014-01-27	H1N2	swine	France	1B.1.2.3
+A/swine/France/50-160358/2016	2016-10-12	H1N2	swine	France	1B.1.2.3
+A/swine/France/50-170342/2017	2017-12-20	H1N2	swine	France	1B.1.2.3
+A/swine/France/56-170170/2017	2017-06-09	H1N2	swine	France	1B.1.2.3
+A/swine/France/56-180406/2018	2018-10-01	H1N2	swine	France	1B.1.2.3
+A/swine/France/56-180470/2018	2018-11-22	H1N2	swine	France	1B.1.2.3
+A/swine/France/59-160211/2016	2016-05-26	H1N2	swine	France	1B.1.2.1
+A/swine/France/59-160320/2016	2016-09-19	H1N2	swine	France	1B.1.2.1
+A/swine/France/59-170058/2017	2017-02-13	H1N2	swine	France	1B.1.2.1
+A/swine/France/62-160229/2016	2016-06-13	H1N2	swine	France	1B.1.2.1
+A/swine/France/Cotes_d_Armor-0070/2010	2010-03-19	H1N1	swine	France	1B.1.2.3
+A/swine/France/Cotes_d_Armor-0190/2006	2006-08-01	H1N1	swine	France	1B.1.2.3
+A/swine/France/Cotes_d_Armor-0295/2011	2011-06-06	H1N2	swine	France	1B.1.2.3
+A/swine/France/Finistere-0186/2011	2011-04-14	H1N2	swine	France	1B.1.2.3
+A/swine/France/Ille_et_Vilaine-0648/2011	2011-11-07	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-160096/2016	2016-01-28	H1N2	swine	France	1B.1.2.3
+A/swine/France/22-160150/2016	2016-03-24	H1N2	swine	France	1B.1.2.3
+A/swine/Lohne/13624/2011	2011-07-15	H1N1	swine	Germany	1B.1.2.1
+A/swine/Schneiderkrug/17263/2013	2013-02-22	H1N1	swine	Germany	1B.1.2.1
+A/swine/Ascheberg/18499/2013	2013-08-29	H1N1	swine	Germany	1B.1.2.1
+A/swine/Borken/19808/2014	2014-03-05	H1N1	swine	Germany	1B.1.2.1
+A/swine/Ahorn/19945/2014	2014-03-31	H1N1	swine	Austria	1B.1.2.1
+A/swine/Ascheberg/19992/2014	2014-04-11	H1N1	swine	Germany	1B.1.2.1
+A/swine/Moersbrunn/20096/2014	2014-05-06	H1N1	swine	Germany	1B.1.2.1
+A/swine/Essen/20452/2014	2014-07-31	H1N1	swine	Germany	1B.1.2.1
+A/swine/Everswinkel/20648/2014	2014-09-12	H1N1	swine	Germany	1B.1.2.1
+A/swine/Lohne/20709/2014	2014-10-06	H1N1	swine	Germany	1B.1.2.1
+A/swine/Garrel/20734/2014	2014-10-10	H1N1	swine	Germany	1B.1.2.1
+A/swine/Ruethen/20843/2014	2014-10-24	H1N1	swine	Germany	1B.1.2.1
+A/swine/Cloppenburg/21149/2014	2014-12-21	H1N1	swine	Germany	1B.1.2.1
+A/swine/Cloppenburg/21225-P4/2015	2015-01-26	H1N1	swine	Germany	1B.1.2.1
+A/swine/Cloppenburg/21225-P5/2015	2015-01-26	H1N1	swine	Germany	1B.1.2.1
+A/swine/Italy/60591/2018	2018-03-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/127577/2016	2016-03-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Ostercappeln/5518/2006	2006-09-04	H1N2	swine	Germany	1B.1.2.1
+A/swine/Rotthalmuenster/5536/2006	2006-09-06	H1N2	swine	Germany	1B.1.2.1
+A/swine/Geseke/5638/2006	2006-10-30	H1N2	swine	Germany	1B.1.2.1
+A/swine/Haltern/5670/2006	2006-11-11	H1N2	swine	Germany	1B.1.2.1
+A/swine/Velen/5730/2006	2006-11-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lichtenau/5999/2007	2007-03-14	H1N2	swine	Germany	1B.1.2.1
+A/swine/Riege/6014/2007	2007-03-22	H1N2	swine	Germany	1B.1.2.1
+A/swine/Dinklage/6017/2007	2007-03-23	H1N2	swine	Germany	1B.1.2.1
+A/swine/Heiden/6058/2007	2007-04-10	H1N2	swine	Switzerland	1B.1.2.1
+A/swine/IVD/6365/2007	2007-08-20	H1N2	swine	Germany	1B.1.2.1
+A/swine/Rotthalmuenster/6376a/2007	2007-08-22	H1N2	swine	Germany	1B.1.2.1
+A/swine/Bad_Wuennenberg/6405/2007	2007-08-31	H1N2	swine	Germany	1B.1.2.1
+A/swine/Garrel/6572/2007	2007-11-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Coesfeld/6693/2007	2007-11-28	H1N2	swine	Germany	1B.1.2.1
+A/swine/Melle/6925/2008	2008-03-04	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/Brilon/6950/2008	2008-03-12	H1N2	swine	Germany	1B.1.2.1
+A/swine/Marklkofen/7028/2008	2008-04-15	H1N2	swine	Germany	1B.1.2.1
+A/swine/Wadersloh/7107a/2008	2008-05-23	H1N2	swine	Germany	1B.1.2.1
+A/swine/Diepholz/7943/2008	2008-11-04	H1N2	swine	Germany	1B.1.2.1
+A/swine/Poland/T2/2008	2008-08-01	H1N2	swine	Poland	1B.1.1
+A/swine/Kerken/8479/2009	2009-01-12	H1N2	swine	Germany	1B.1.2.1
+A/swine/Kleve/8532a/2009	2009-01-13	H1N2	swine	Germany	1B.1.2.1
+A/swine/Klosterseelte/8607/2009	2009-01-21	H1N2	swine	Germany	1B.1.2.1
+A/swine/Harsefeld/8608/2009	2009-01-22	H1N2	swine	Germany	1B.1.2.1
+A/swine/Bottrop/8644/2009	2009-01-26	H1N2	swine	Germany	1B.1.2.1
+A/swine/Sugenheim/8871/2009	2009-02-16	H1N2	swine	Germany	1B.1.2.1
+A/swine/Hamm/9035/2009	2009-03-02	H1N2	swine	Germany	1B.1.2.1
+A/swine/Harsefeld/9667/2009	2009-05-26	H1N2	swine	Germany	1B.1.2.1
+A/swine/Emstek/10466/2009	2009-09-17	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/10753/2009	2009-10-23	H1N2	swine	Germany	1B.1.2.1
+A/swine/Holdorf/10815/2009	2009-10-20	H1N2	swine	Germany	1B.1.2.1
+A/swine/Melle/10846/2009	2009-11-06	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/Borgentreich/11868-2/2010	2010-04-20	H1N2	swine	Germany	1B.1.2.1
+A/swine/Warendorf/12015/2010	2010-05-31	H1N2	swine	Germany	1B.1.2.1
+A/swine/Freren/12095/2010	2010-06-22	H1N2	swine	Germany	1B.1.2.1
+A/swine/Steinfeld/12116/2010	2010-06-28	H1N2	swine	Austria	1B.1.2.1
+A/swine/Bad_Essen/12159/2010	2010-07-08	H1N2	swine	Germany	1B.1.2.1
+A/swine/Maasch/12354/2010	2010-08-30	H1N2	swine	Belgium	1B.1.2.1
+A/swine/Senden/12381/2010	2010-09-07	H1N2	swine	Germany	1B.1.2.1
+A/swine/Reken/12474/2010	2010-09-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Messingen/12475/2010	2010-09-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Altenberge/12614/2010	2010-10-25	H1N2	swine	Germany	1B.1.2.1
+A/swine/Rheine/12626-1/2010	2010-10-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Frontenhausen/12668-1/2010	2010-11-04	H1N2	swine	Germany	1B.1.2.1
+A/swine/Ahaus/12696/2010	2010-11-16	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/12743/2010	2010-11-23	H1N2	swine	Germany	1B.1.2.1
+A/swine/Augustenfeld/12793/2010	2010-12-07	H1N2	swine	Germany	1B.1.2.1
+A/swine/Spelk/12860-1/2010	2010-12-28	H1N2	swine	Germany	1B.1.2.1
+A/swine/Beesten/12876/2011	2011-01-07	H1N2	swine	Germany	1B.1.2.1
+A/swine/Gescheu/12893/2011	2011-01-11	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/12929/2011	2011-01-23	H1N2	swine	Germany	1B.1.2.1
+A/swine/Ense/12957/2011	2011-01-26	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/12960/2011	2011-01-28	H1N2	swine	Germany	1B.1.2.1
+A/swine/Marsberg/13049/2011	2011-02-16	H1N2	swine	Germany	1B.1.2.1
+A/swine/Bargstedt/13147/2011	2011-03-12	H1N2	swine	Germany	1B.1.2.1
+A/swine/Natingen/13545/2011	2011-06-19	H1N2	swine	Germany	1B.1.2.1
+A/swine/Rosendahl/13572/2011	2011-06-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Heiden/13585/2011	2011-06-30	H1N2	swine	Switzerland	1B.1.2.1
+A/swine/Buxtehude/13586/2011	2011-06-29	H1N2	swine	Germany	1B.1.2.1
+A/swine/Bueren/13686/2011	2011-07-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Osnabrueck/13732/2011	2011-08-09	H1N2	swine	Germany	1B.1.2.1
+A/swine/Calhorn/13738-1/2011	2011-08-10	H1N2	swine	Germany	1B.1.2.1
+A/swine/Baustetten/13769/2011	2011-08-17	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/13804/2011	2011-08-22	H1N2	swine	Germany	1B.1.2.1
+A/swine/Grossenkneten/13809/2011	2011-08-24	H1N2	swine	Germany	1B.1.2.1
+A/swine/Georgsmarienhuette/13896/2011	2011-09-13	H1N2	swine	Germany	1B.1.2.1
+A/swine/Emsbueren/13919-1/2011	2011-09-15	H1N2	swine	Germany	1B.1.2.1
+A/swine/Emsbueren/13919-2/2011	2011-09-15	H1N2	swine	Germany	1B.1.2.1
+A/swine/Legden/13920/2011	2011-09-20	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/14151/2011	2011-11-02	H1N2	swine	Germany	1B.1.2.1
+A/swine/Ense/14198/2011	2011-11-10	H1N2	swine	Germany	1B.1.2.1
+A/swine/Lohne/14220/2011	2011-11-14	H1N2	swine	Germany	1B.1.2.1
+A/swine/Siegenburg/14341-2/2011	2011-12-05	H1N2	swine	Germany	1B.1.2.1
+A/swine/Siegenburg/14341-3/2011	2011-12-05	H1N2	swine	Germany	1B.1.2.1
+A/swine/Steinfurt/14372/2011	2011-12-09	H1N2	swine	Germany	1B.1.2.1
+A/swine/Duelmen/14394/2011	2011-12-13	H1N2	swine	Germany	1B.1.2.1
+A/swine/Sendenhorst/17561/2013	2013-03-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Steinfeld/17719/2013	2013-04-22	H1N2	swine	Austria	1B.1.2.1
+A/swine/Drensteinfurt/17796/2013	2013-05-02	H1N2	swine	Germany	1B.1.2.1
+A/swine/Ascheberg/17823/2013	2013-05-07	H1N2	swine	Germany	1B.1.2.1
+A/swine/Kuehlenthal/17963/2013	2013-05-27	H1N2	swine	Germany	1B.1.2.1
+A/swine/Dahlheim/19138/2013	2013-11-08	H1N2	swine	Germany	1B.1.2.1
+A/swine/Harsewinkel/19917/2014	2014-03-21	H1N2	swine	Germany	1B.1.2.1
+A/swine/Telgte/20810/2014	2014-10-20	H1N2	swine	Germany	1B.1.2.1
+A/swine/Marsberg/21016/2014	2014-12-01	H1N2	swine	Germany	1B.1.2.1
+A/swine/Oberschleissheim/21141/2014	2014-12-18	H1N2	swine	Germany	1B.1.2.1
+A/swine/Boekel/21243/2015	2015-01-30	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/Werl/21305/2015	2015-02-13	H1N2	swine	Germany	1B.1.2.1
+A/swine/Boekel/21424/2015	2015-03-10	H1N2	swine	Netherlands	1B.1.2.1
+A/swine/Kuehlenthal/22307/2015	2015-10-19	H1N2	swine	Germany	1B.1.2.1
+A/swine/Belgium/Gent-233/2018	2018-09-01	H1N2	swine	Belgium	1B.1.2.1
+A/swine/Belgium/Gent-178/2019	2019-09-01	H1N2	swine	Belgium	1B.1.2.1
+A/swine/Belgium/Gent-114/2019	2019-09-01	H1N2	swine	Belgium	1B.1.2.1
+A/swine/Belgium/Gent-30/2014	2014-09-01	H1N2	swine	Belgium	1B.1.2.1
+A/swine/Italy/20-30224_4/2020	2020-03-03	H1N2	swine	Italy	1B.1.2.2
+A/swine/Spain/25001-3/2019	2019-12-04	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/50001-5/2019	2019-11-20	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/25001-2/2019	2019-11-20	H1N2	swine	Spain	1B.1.2.1
+A/swine/Italy/438757/2019	2019-12-14	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/373090/2019	2019-10-29	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/353864/2019	2019-10-15	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/312575/2019	2019-09-12	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/222905/2019	2019-06-26	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/65951/2019	2019-02-21	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/57984/2019	2019-02-15	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/361741/2019	2019-10-16	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/361695/2019	2019-10-16	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/35129/2019	2019-01-29	H1N2	swine	Italy	1B.1.2.1
+A/swine/Italy/248971/2019	2019-07-17	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/202244/2019	2019-06-08	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/161875/2019	2019-05-08	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/15878/2019	2019-01-14	H1N1	swine	Italy	1B.1.2.2
+A/swine/Italy/154035/2019	2019-05-02	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/134212/2019	2019-04-09	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/126300/2019	2019-04-09	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/124025/2019	2019-04-05	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/118860/2019	2019-04-02	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/333302/2018	2018-09-10	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/170610/2018	2018-11-20	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/10041/2018	2018-12-31	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/104730/2018	2018-12-14	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/115584/2018	2018-12-15	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/161708/2018	2018-12-03	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/220402/2018	2018-11-20	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/262270/2018	2018-11-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/270892/2018	2018-10-31	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/299471/2018	2018-10-17	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/326711/2018	2018-09-20	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/329173/2018	2018-09-11	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/335210/2018	2018-09-10	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/366402/2018	2018-07-24	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/366605/2018	2018-06-15	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/370826/2018	2018-06-12	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/386135/2018	2018-05-09	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/386145/2018	2018-04-27	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/389633/2018	2018-04-24	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/389736/2018	2018-04-21	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/410927/2018	2018-04-03	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/58269/2018	2018-03-26	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/81196/2018	2018-02-12	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/82784/2018	2018-03-02	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/83983/2018	2018-02-28	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/98256/2018	2018-01-10	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/11275/2017	2017-12-22	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/172622/2017	2017-11-29	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/27719/2017	2017-08-24	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/37450/2017	2017-03-23	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/632/2017	2017-02-14	H1N2	swine	Italy	1B.1.2.1
+A/swine/Italy/95312/2017	2017-01-09	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/1932/2017	2017-11-21	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/196010/2017	2017-10-17	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/214856/2018	2018-08-01	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/24568/2017	2017-09-25	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/70445/2017	2017-02-09	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/74357/2017	2017-02-07	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/89644/2017	2017-01-12	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/145488/2020	2020-05-26	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/185280/2020	2020-06-25	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/47471/2020	2020-02-07	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/53693/2020	2020-02-13	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/217458-1/2020	2020-07-22	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/259446/2020	2020-08-26	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/294638/2020	2020-09-29	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/300976/2020	2020-09-23	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/308263/2020	2020-10-03	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/319759/2020	2020-10-12	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/327872-86/2020	2020-10-16	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/351300/2020	2020-10-28	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/365672/2020	2020-11-10	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/373297/2020	2020-11-17	H1N2	swine	Italy	1B.1.2.2
+A/swine/France/22-190570/2019	2019-11-19	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-200240/2020	2020-07-21	H1N2	swine	France	1B.1.2.3
+A/swine/France/29-200291/2020	2020-09-09	H1N2	swine	France	1B.1.2.3
+A/swine/France/35-190213/2019	2019-05-13	H1N2	swine	France	1B.1.2.3
+A/swine/France/56-190288/2019	2019-05-06	H1N2	swine	France	1B.1.2.3
+A/swine/France/59-190057/2019	2019-01-24	H1N2	swine	France	1B.1.2.1
+A/swine/France/59-190174/2019	2019-05-02	H1N2	swine	France	1B.1.2.1
+A/swine/Spain/45600-3/2017	2017-07-28	H1N2	swine	Spain	1B.1.2
+A/swine/Spain/40340-2/2017	2017-07-03	H1N2	swine	Spain	1B.1.2.1
+A/swine/Spain/45600-1/2017	2017-07-27	H1N2	swine	Spain	1B.1.2
+A/swine/spain/45600-4/2017	2017-07-28	H1N2	swine	Spain	1B.1.2
+A/swine/France/22-180459/2018	2018-11-09	H1N1	swine	France	1B.1.2.3
+A/swine/Spain/45690-2/2016	2016-12-27	H1N1	swine	Spain	1B.1.2
+A/swine/Italy/438746/2021	2021-12-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/122884-001/2022	2022-03-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/24394-15/2022	2022-01-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/21295-2/2022	2022-01-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/21295-1/2022	2022-01-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/286519/2021	2021-09-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/36005/2021	2021-03-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/195259-1/2021	2021-06-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/346921/2021	2021-10-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/35103/2021	2021-10-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/39688/2021	2021-03-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/46249/2021	2021-02-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/49311/2021	2021-03-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/81755/2021	2021-03-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/254662/2021	2021-12-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/135572/2021	2021-06-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/113200_1/2021	2021-06-XX	H1N2	swine	Italy	1B.1.2.2
+A/swine/Italy/110217_1/2021	2021-06-XX	H1N2	swine	Italy	1B.1.2.2

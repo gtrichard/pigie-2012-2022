@@ -27,3 +27,4 @@
 - Remove non-PIGIE countries sequences potentially (very sparsely sampled countries like Austria, Sweden, Finland, Portugal, Serbia, Poland, Czech Republic, Switzerland, etc)?
 - Remove A/swine/London/Scholtissek_lab strain (unknow origin, old clade).
 - Remove A/swine/England/405741/1994 (too old).
+- Finalize H3 instance (latest NCBI strains from Denmark + check the Human sequences that were considered too divergent).

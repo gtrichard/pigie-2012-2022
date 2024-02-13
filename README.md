@@ -24,6 +24,6 @@
 - H1A tree: https://nextstrain.org/community/gtrichard/pigie-2012-2022/H1A?c=Country&p=full&transmissions=hide
 
 ## To do:
-- Remove non-PIGIE countries sequences potentially (very sparsely sampled countries like Sweden, Finland, Portugal, Serbia, Poland, Czech Republic, Switzerland, etc).
+- Remove non-PIGIE countries sequences potentially (very sparsely sampled countries like Austria, Sweden, Finland, Portugal, Serbia, Poland, Czech Republic, Switzerland, etc)?
 - Remove A/swine/London/Scholtissek_lab strain (unknow origin, old clade).
 - Remove A/swine/England/405741/1994 (too old).
